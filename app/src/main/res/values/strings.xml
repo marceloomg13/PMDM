@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Recuperacion</string>
+    <string name="fecha">fecha</string>
+    <string name="lugar">lugar</string>
+    <string name="NombrePelicula1">NombrePelicula1</string>
+    <string name="NombrePelicula2">NombrePelicula2</string>
+    <string name="NombrePelicula3">NombrePelicula3</string>
+    <string name="ayuda">Aplicacción Casting que sirve para mostrar las peliculas y actores de Estudio Ghibli estableciendo conexión a base de datos mediante corrutinas</string>
+    <string name="siguiente">Siguiente</string>
+</resources>
